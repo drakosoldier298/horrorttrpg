@@ -38,9 +38,9 @@ const config: QuartzConfig = {
           //Text
           darkgray: "#e78442",
           //header text and icons
-          dark: "#ff8a00",
+          dark: "rgb(196, 139, 17)",
           //link colour, current graph node
-          secondary: "rgb(168, 123, 38)",
+          secondary: "#ff8a00",
           //hover states and visited graph nodes
           tertiary: "rgb(221, 175, 91)",
           highlight: "#844c27",
