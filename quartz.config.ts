@@ -30,20 +30,20 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           //  page background
-          light: "#5f8894", 
+          light: "#1E1E1E", 
           //borders
           lightgray: "#4c75d2",
           //graph links, heavier borders
           gray: "#6e7ca3",
           //Text
-          darkgray: "#004eff",
+          darkgray: "#ffffff",
           //header text and icons
-          dark: "#41d9ff",
+          dark: "#5A8D76",
           //link colour, current graph node
-          secondary: "#5400ff",
+          secondary: "rgb(71, 149, 250)",
           //hover states and visited graph nodes
-          tertiary: "rgb(91, 147, 221)",
-          highlight: "#5974c0",
+          tertiary: "rgb(160, 113, 214)",
+          highlight: "rgb(160, 113, 214)",
           textHighlight: "rgb(30, 84, 155)",
         },
         darkMode: {
