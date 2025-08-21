@@ -48,10 +48,11 @@ const config: QuartzConfig = {
           gray: "#rgb(64, 154, 196)",
           //Text
           darkgray: "rgb(16, 129, 194)",
-          dark: "rgb(43, 44, 44)",
+          //Headers?
+          dark: "rgb(52, 191, 209)",
           secondary: "rgb(54, 136, 190)",
           tertiary: "rgb(28, 158, 245)",
-          highlight: "rgb(3, 207, 214)",
+          highlight: "rgb(40, 43, 43)",
           textHighlight: "rgba(143, 159, 169, 0.15)",
         },
       },
