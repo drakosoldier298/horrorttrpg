@@ -31,12 +31,16 @@ a rewrite to be more clear and concise
  - [[Anomalies Table]]
 - #### Battle System 
 - #### Mechanics 
+  - [[Sanity and anxiety v2]]
  - [[Check system Alpha 2]]
 - #### World events
+   - [[Tempest V2]]
+   - [[Tempest-A]]
+   - [[Tempest-Z]]
 ### Player Handbook
  - [[Attributes V2]]
 #### Character creation
- 
+ - [[Character Sheet]]
 #### Todo list
 - [ ] Complete Character creation V2
 - [ ] Complete Battle system V2
