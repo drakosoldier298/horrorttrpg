@@ -30,13 +30,13 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           //  page background
-          light: "rgb(112, 92, 74)", 
+          light: "rgb(143, 110, 84)", 
           //borders
           lightgray: "rgb(216, 137, 73)",
           //graph links, heavier borders
           gray: "rgb(180, 125, 42)",
           //Text
-          darkgray: "rgb(136, 66, 8)",
+          darkgray: "rgb(175, 98, 35)",
           //header text and icons
           dark: "rgb(196, 139, 17)",
           //link colour, current graph node
