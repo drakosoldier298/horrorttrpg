@@ -42,7 +42,7 @@ const config: QuartzConfig = {
         darkMode: {
           light: "rgb(67, 69, 70)",
           lightgray: "rgb(108, 116, 121)",
-          gray: "#rgb(107, 109, 110)",
+          gray: "#rgb(64, 154, 196)",
           darkgray: "rgb(77, 82, 85)",
           dark: "rgb(43, 44, 44)",
           secondary: "rgb(54, 136, 190)",
