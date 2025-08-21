@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-dg-home: true
+title: Welcome
+slug: home
 ---
-This is a project to try and create a tabletop system that can be used specifically for SCP Themed or horror campaigns
-
-
-This project is to Try and create a Tabletop RPG System that is modular and can be used primarily for long-term Horror themed Campaigns 
 
 ##### [[Changelog]]
 
