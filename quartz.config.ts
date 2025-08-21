@@ -51,9 +51,9 @@ const config: QuartzConfig = {
           //Headers?
           dark: "rgb(52, 191, 209)",
           //backlinks
-          secondary: "rgb(39, 245, 217)",
+          secondary: "rgb(137, 180, 245)",
           //current files
-          tertiary: "rgb(100, 156, 240)",
+          tertiary: "rgb(39, 245, 217)",
           highlight: "rgb(40, 43, 43)",
           textHighlight: "rgba(143, 159, 169, 0.15)",
         },
