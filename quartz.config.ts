@@ -43,7 +43,7 @@ const config: QuartzConfig = {
           secondary: "rgb(71, 149, 250)",
           //hover states and visited graph nodes
           tertiary: "rgb(160, 113, 214)",
-          highlight: "rgb(73, 84, 133)",
+          highlight: "rgb(0, 0, 0)",
           textHighlight: "rgb(30, 84, 155)",
         },
         darkMode: {
