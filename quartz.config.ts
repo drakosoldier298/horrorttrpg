@@ -29,30 +29,37 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          //  page background
+          light: "rgb(131, 153, 151)", 
+          //borders
+          lightgray: "rgb(17, 101, 134)",
+          //graph links, heavier borders
+          gray: "#rgb(34, 87, 87)",
+          //Text
+          darkgray: "rgb(16, 129, 194)",
+          //header text and icons
+          dark: "rgb(52, 191, 209)",
+          //link colour, current graph node
+          secondary: "rgb(137, 180, 245)",
+          //hover states and visited graph nodes
+          tertiary: "rgb(39, 245, 217)",
+          highlight: "rgb(40, 43, 43)",
+          textHighlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          // background
+          //  page background
           light: "rgb(28, 31, 32)", 
-          //extras
+          //borders
           lightgray: "rgb(11, 146, 230)",
-          //unknown
+          //graph links, heavier borders
           gray: "#rgb(69, 247, 247)",
           //Text
           darkgray: "rgb(16, 129, 194)",
-          //Headers?
+          //header text and icons
           dark: "rgb(52, 191, 209)",
-          //backlinks
+          //link colour, current graph node
           secondary: "rgb(137, 180, 245)",
-          //current files
+          //hover states and visited graph nodes
           tertiary: "rgb(39, 245, 217)",
           highlight: "rgb(40, 43, 43)",
           textHighlight: "rgba(143, 159, 169, 0.15)",
