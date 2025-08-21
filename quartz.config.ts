@@ -30,7 +30,7 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           //  page background
-          light: "#864b24", 
+          light: "#6e97a3", 
           //borders
           lightgray: "#4c75d2",
           //graph links, heavier borders
