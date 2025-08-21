@@ -42,11 +42,12 @@ const config: QuartzConfig = {
         darkMode: {
           // background
           light: "rgb(67, 69, 70)", 
-          //text???
-          lightgray: "rgb(9, 255, 0)",
-          ///rgb(64, 154, 196) backlinks?
-          gray: "#rgb(196, 64, 64)",
-          darkgray: "rgb(77, 82, 85)",
+          //extras
+          lightgray: "rgb(11, 146, 230)",
+          //unknown
+          gray: "#rgb(64, 154, 196)",
+          //Text
+          darkgray: "rgb(16, 129, 194)",
           dark: "rgb(43, 44, 44)",
           secondary: "rgb(54, 136, 190)",
           tertiary: "rgb(28, 158, 245)",
