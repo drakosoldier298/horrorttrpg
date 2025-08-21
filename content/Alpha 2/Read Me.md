@@ -14,26 +14,25 @@ The examples can be used as is or changed. IT IS ENCOURAGED TO CHANGE SOME VALUE
 So a lot of words are used only or primarily inside of the TTRPG communities. I will have a list here and try to explain them as best i can
 
 **Game Master / Dungeon Master** 
-	These words mean the exact same thing, All it means is the Person who is hosting the game, Controlling npc's Monsters, The game world.
-	**Dungeon master** was popularized By Dungeons and dragons, While **Game Master** is used in almost everything else. 
-	You will see me use both interchangeably, I'm sorry it will likely be annoying. 
-	
-	These are shortened to DM and GM respectively
-	
+ - These words mean the exact same thing, All it means is the Person who is hosting the game, Controlling npc's Monsters, The game world.
+ - **Dungeon master** was popularized By Dungeons and dragons, While **Game Master** is used in almost everything else. 
+  You will see me use both interchangeably, I'm sorry it will likely be annoying. 
+ - These are shortened to DM and GM respectively
 
 **Metagaming** 
-	Metagaming is using Real life knowledge that Your character in game should not know. Normally to the advantage of the player and the frustration of the Game master.
-	This could be anything from How to easily kill a monster, to the exact stats of a weapon.
+ - Metagaming is using Real life knowledge that Your character in game should not know. Normally to the advantage of the player and the frustration of the Game master.
+ - This could be anything from How to easily kill a monster, to the exact stats of a weapon.
 
 **NPC And PC**
-	An **NPC** is a **Non Playable Character** or **Non Player Character** Is Exactly what it says, It is a character that a player does not play as, Normally Something that the Gm controls.
-	**PC** Is **Playable Character** Or **Player Character** 
-	It is what players are. I personally don't know how to explain it more than this.
-	Quote from alpha tester **"This be you!"**
+ - An **NPC** is a **Non Playable Character** or **Non Player Character** Is Exactly what it says, It is a character that a player does not play as, Normally Something that the Gm controls.
+   
+ - **PC** Is **Playable Character** Or **Player Character** 
+ ​	​	It is what players are. I personally don't know how to explain it more than this.
+ ​	​	​	​	Quote from alpha tester **"This be you!"**
 
 **What is a "D"** 
-	 So Youve probly seen me say 1D6 in somethings are like "*the hecc is a D*" 
-	 This is in reference to the number of sides a die has a d6 is a 6 sided die like what Monopoly uses. 
-	 So **1d6** is a Single Six Sided Die , **2d8** is Two 8 Sided Die
-	 The reason a d6 is used in this the most is its easy and cheap to obtain since most people have bought board games in the past.
-	 
+- So Youve probably seen me say 1D6 in somethings are like "*the hecc is a D*" 
+​	This is in reference to the number of sides a die has a d6 is a 6 sided die like what​ Monopoly uses. 
+ - So **1d6** is a Single Six Sided Die , **2d8** is Two 8 Sided Die
+​	​	 The reason a d6 is used in this the most is its easy and cheap to obtain since most people have bought board games in the past.
+ 

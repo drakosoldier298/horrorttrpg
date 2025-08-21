@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Tempest-Z is another variant of tempest, it is the size of a basketball and seems to emit apocalyptic events. 
 
 # Tempest-Z is to be held in an emp field containment at all times, at no point are any personnel allowed to interact with it
