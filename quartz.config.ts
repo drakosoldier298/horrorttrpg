@@ -51,8 +51,9 @@ const config: QuartzConfig = {
           //Headers?
           dark: "rgb(52, 191, 209)",
           //
-          secondary: "rgb(54, 136, 190)",
-          tertiary: "rgb(28, 158, 245)",
+          secondary: "rgb(255, 0, 0)",
+          //
+          tertiary: "rgb(0, 255, 34)",
           highlight: "rgb(40, 43, 43)",
           textHighlight: "rgba(143, 159, 169, 0.15)",
         },
