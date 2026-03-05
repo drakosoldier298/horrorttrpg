@@ -413,7 +413,7 @@
   --interactive-accent-hover: #8be9fd !important;
   --interactive-accent-hsl: 258, 88%, 66% !important;
   --interactive-hover: #8be9fd !important;
-  --interactive-normal: #00ffff !important;
+  --interactive-normal: var(--accent-2) !important;
   --keyboard-height: 0px !important;
   --layer-cover: 5 !important;
   --layer-dragged-item: 80 !important;
@@ -753,14 +753,14 @@
   --tag-padding-y: 0.25em !important;
   --tag-radius: 2em !important;
   --tag-size: 0.875em !important;
-  --text-accent: #ff1690 !important;
+  --text-accent: #16e3a5 !important;
   --text-accent-hover: #7a6ae6 !important;
   --text-error: #fb464c !important;
   --text-faint: #bd93f9 !important;
   --text-highlight-bg: #ffd319 !important;
   --text-highlight-bg-rgb: 255, 208, 0 !important;
-  --text-muted: #ff79c6 !important;
-  --text-normal: #ff00ff !important;
+  --text-muted: var(--accent-1-muted) !important;
+  --text-normal: var(--accent-1) !important;
   --text-on-accent: rgba(0, 0, 0, 0.8) !important;
   --text-on-accent-inverted: black !important;
   --text-selection: rgba(0, 122, 255, 0.2) !important;
