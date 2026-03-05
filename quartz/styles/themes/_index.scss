@@ -3284,8 +3284,8 @@ body {
 
 :root:root:root {
   body {
-    --text-normal: rgba(255, 220, 255, 0.8);
-    --text-faint: rgba(255, 220, 255, 0.25);
+    --text-normal: var(--accent-1);
+    --text-faint: var(--accent-6-muted);
     --text-accent: var(--accent-2);
     --lightgray: var(--hr-color);
     p {
@@ -3322,7 +3322,7 @@ body::before {
     3px 100%;
   pointer-events: none;
 }
-
+// EVerything below this is for flicker
 // body::after {
 //   content: " ";
 //   display: block;
