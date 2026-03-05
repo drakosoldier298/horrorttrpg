@@ -698,12 +698,12 @@
   --tab-switcher-preview-radius: 16px !important;
   --tab-switcher-preview-shadow: 0 0 0 1px rgba(255, 255, 255, 0.05) !important;
   --tab-switcher-preview-shadow-active: 0 0 0 2px rgb(138, 92, 245) !important;
-  --tab-text-color: #bd93f9 !important;
-  --tab-text-color-active: #ff79c6 !important;
-  --tab-text-color-focused: #ff79c6 !important;
-  --tab-text-color-focused-active: #ff79c6 !important;
-  --tab-text-color-focused-active-current: #ff00ff !important;
-  --tab-text-color-focused-highlighted: #ff1690 !important;
+  --tab-text-color: var(--accent-1) !important;
+  --tab-text-color-active: var(--accent-1) !important;
+  --tab-text-color-focused: var(--accent-1)!important;
+  --tab-text-color-focused-active: var(--accent-1) !important;
+  --tab-text-color-focused-active-current: var(--accent-1) !important;
+  --tab-text-color-focused-highlighted: var(--accent-1) !important;
   --tab-width: 200px !important;
   --table-add-button-background: transparent !important;
   --table-add-button-border-color: #00ffff !important;
