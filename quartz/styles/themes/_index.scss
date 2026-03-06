@@ -1775,7 +1775,7 @@ body {
   }
 
   h1 {
-    color: rgba(255, 220, 255, 0.8);
+    color: var(--accent-1);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1788,11 +1788,11 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    text-shadow: var(--accent-1) 0px 0px 12.944px;
+    
   }
 
   h2 {
-    color: rgba(255, 220, 255, 0.8);
+    color: var(--accent-2);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1805,11 +1805,11 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    text-shadow: rgb(0, 255, 255) 0px 0px 11.696px;
+    
   }
 
   h3 {
-    color: rgba(255, 220, 255, 0.8);
+    color: var(--accent-3);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1822,11 +1822,10 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    text-shadow: rgb(0, 255, 0) 0px 0px 10.544px;
   }
 
   h4 {
-    color: rgba(255, 220, 255, 0.8);
+    color: var(--accent-4);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1839,11 +1838,10 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    text-shadow: rgb(255, 255, 0) 0px 0px 9.504px;
   }
 
   h5 {
-    color: rgba(255, 220, 255, 0.8);
+    color: var(--accent-5);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1856,11 +1854,9 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    text-shadow: rgb(255, 0, 0) 0px 0px 8.608px;
-  }
 
   h6 {
-    color: rgba(255, 220, 255, 0.8);
+    color: var(--accent-6);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1873,7 +1869,6 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    text-shadow: rgb(0, 0, 255) 0px 0px 8px;
   }
 
   h2.page-title,
