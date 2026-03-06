@@ -1775,7 +1775,7 @@ body {
   }
 
   h1 {
-    color: var(--accent-1);
+    color: rgba(255, 220, 255, 0.8);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1788,11 +1788,11 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    
+    text-shadow: var(--accent-1) 0px 0px 12.944px;
   }
 
   h2 {
-    color: var(--accent-2);
+    color: rgba(255, 220, 255, 0.8);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1805,11 +1805,11 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    
+    text-shadow: rgb(0, 255, 255) 0px 0px 11.696px;
   }
 
   h3 {
-    color: var(--accent-3);
+    color: rgba(255, 220, 255, 0.8);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1822,10 +1822,11 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
+    text-shadow: rgb(0, 255, 0) 0px 0px 10.544px;
   }
 
   h4 {
-    color: var(--accent-4);
+    color: rgba(255, 220, 255, 0.8);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1838,10 +1839,11 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
+    text-shadow: rgb(255, 255, 0) 0px 0px 9.504px;
   }
 
   h5 {
-    color: var(--accent-5);
+    color: rgba(255, 220, 255, 0.8);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1854,9 +1856,11 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
+    text-shadow: rgb(255, 0, 0) 0px 0px 8.608px;
+  }
 
   h6 {
-    color: var(--accent-6);
+    color: rgba(255, 220, 255, 0.8);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1869,6 +1873,7 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
+    text-shadow: rgb(0, 0, 255) 0px 0px 8px;
   }
 
   h2.page-title,
@@ -3317,8 +3322,6 @@ body::before {
     3px 100%;
   pointer-events: none;
 }
-
-
 // EVerything below this is for flicker
 // body::after {
 //   content: " ";
@@ -3694,4 +3697,4 @@ body::before {
 //       0 0 3px
 //     );
 //   }
-}
+// }
