@@ -986,7 +986,7 @@ html {
 body {
   div#quartz-root {
     background-color: rgb(43, 33, 58);
-    color: rgb(255, 0, 255);
+    color: var(--accent-1);
   }
 
   &[data-slug],
@@ -994,12 +994,12 @@ body {
   .page > div#quartz-body div.center,
   .page > div#quartz-body footer {
     background-color: rgb(43, 33, 58);
-    color: rgb(255, 0, 255);
+    color: var(--accent-1);
   }
 
   .page > div#quartz-body div.sidebar {
     background-color: rgb(26, 24, 54);
-    color: rgb(255, 0, 255);
+    color: var(--accent-1);
   }
 
   &[data-slug] div#quartz-root.page,
@@ -1007,12 +1007,12 @@ body {
   .page > div#quartz-body div.sidebar.left:has(.explorer),
   .page > div#quartz-body div.sidebar.left .explorer .explorer-content {
     background-color: rgb(26, 24, 54);
-    color: rgb(255, 0, 255);
+    color: var(--accent-1);
   }
 
   .page > div#quartz-body div.sidebar.right {
     background-color: rgb(26, 24, 54);
-    color: rgb(255, 0, 255);
+    color: var(--accent-1);
     border-left: 1px solid rgb(0, 255, 255);
   }
 
@@ -1472,7 +1472,7 @@ body {
     border-start-end-radius: 4px;
     border-end-start-radius: 4px;
     border-end-end-radius: 4px;
-    color: rgb(255, 0, 255);
+    color: var(--accent-1);
     font-family:
       ui-monospace, SFMono-Regular, "Cascadia Mono", "Roboto Mono",
       "DejaVu Sans Mono", "Liberation Mono", Menlo, Monaco, Consolas,
@@ -1596,7 +1596,7 @@ body {
     border-start-end-radius: 5px;
     border-end-start-radius: 5px;
     border-end-end-radius: 5px;
-    color: rgb(255, 0, 255);
+    color: var(--accent-1);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1788,7 +1788,7 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    text-shadow: rgb(255, 0, 255) 0px 0px 12.944px;
+    text-shadow: var(--accent-1) 0px 0px 12.944px;
   }
 
   h2 {
@@ -2216,7 +2216,7 @@ body {
 
   th {
     background-color: rgba(0, 0, 0, 0);
-    color: rgb(255, 0, 255);
+    color: var(--accent-1);
     font-weight: 600;
     text-align: start;
     vertical-align: top;
@@ -2469,13 +2469,13 @@ body {
   kbd {
     background-color: rgb(23, 21, 32);
     box-shadow: none;
-    color: rgb(255, 0, 255);
+    color: var(--accent-1);
     font-family:
       ui-monospace, SFMono-Regular, "Cascadia Mono", "Roboto Mono",
       "DejaVu Sans Mono", "Liberation Mono", Menlo, Monaco, Consolas,
       "Source Code Pro", monospace;
     font-size: 14px;
-    border: 0px rgb(255, 0, 255);
+    border: 0px var(--accent-1);
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
     border-bottom-left-radius: 4px;
@@ -2701,7 +2701,7 @@ body {
 
   .explorer .explorer-content ul.explorer-ul li:has(> .active) {
     background-color: rgba(255, 255, 255, 0.067);
-    border: 0px rgb(255, 0, 255);
+    border: 0px var(--accent-1);
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
     border-bottom-left-radius: 4px;
@@ -2710,7 +2710,7 @@ body {
     border-start-end-radius: 4px;
     border-end-start-radius: 4px;
     border-end-end-radius: 4px;
-    color: rgb(255, 0, 255);
+    color: var(--accent-1);
     cursor: default;
     transition-behavior: normal;
     transition-delay: 0s;
